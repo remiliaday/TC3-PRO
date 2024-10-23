@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Refactors>
+  <Renames>
+    <RenamedType>
+      <Type guid="b29e7b1b-0d45-4d4e-b714-9149af7c2cd5">MAIN_1</Type>
+      <From>MAIN_1</From>
+      <To>FB_ADD</To>
+    </RenamedType>
+  </Renames>
+</Refactors>
